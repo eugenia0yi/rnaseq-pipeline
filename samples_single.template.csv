@@ -1,0 +1,3 @@
+sample,condition,read1
+S1,control,data/S1.fastq.gz
+S2,treated,data/S2.fastq.gz

@@ -1,0 +1,13 @@
+# data + results are usually large
+data/*
+!data/.keep
+ref/*
+!ref/.keep
+results/*
+!results/.keep
+logs/*
+!logs/.keep
+
+# R stuff
+.Rhistory
+.RData
