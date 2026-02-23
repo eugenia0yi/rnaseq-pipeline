@@ -19,7 +19,7 @@ Designed for small bulk RNA-seq datasets (paired or single-end).
 
 ## Project Structure
 
-'''
+```text
 rnaseq_small/
 ├── data/
 ├── ref/
@@ -35,7 +35,7 @@ rnaseq_small/
 │ └── 05_deseq2.sh
 ├── environment.yml
 └── README.md
-'''
+```
 
 ---
 
