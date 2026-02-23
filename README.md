@@ -18,6 +18,7 @@ Designed for small bulk RNA-seq datasets (paired or single-end).
 ---
 
 ## Project Structure
+
 '''
 rnaseq_small/
 ├── data/
@@ -35,6 +36,7 @@ rnaseq_small/
 ├── environment.yml
 └── README.md
 '''
+
 ---
 
 ## Environment Setup
